@@ -1,0 +1,62 @@
+html {
+    background: #FF0066;
+    margin-left: 20px;
+}
+body { 
+	font: 100% georgia, sans-serif;
+	margin: 0; 
+	padding: 0;
+    }
+div {
+    padding: 5px;
+}
+img {
+    padding: 10px;
+    height: 230px;
+}
+p {
+    margin: 0px;
+    padding: 0px;
+}
+h2 {
+    display: block;
+    background: url(images/hbg.gif) left top repeat #000;
+    background-color: rgb(0, 0, 0);
+    background-position-x: left;
+    background-position-y: top;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: url("images/hbg.gif");
+    background-size: auto auto;
+    background-origin: padding-box;
+    background-clip: border-box;
+    margin: 0;
+    padding: 0;
+        padding-left: 0px;
+    padding-left: 20px;
+    font-size: 24px;
+    line-height: 50px;
+}
+h1 {
+    display: block;
+    background: url(images/hbg.gif) left top repeat #000;
+    background-color: rgb(0, 0, 0);
+    background-position-x: left;
+    background-position-y: top;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: url("images/hbg.gif");
+    background-size: auto auto;
+    background-origin: padding-box;
+    background-clip: border-box;
+    margin: 0;
+    padding: 0;
+        padding-left: 0px;
+    padding-left: 20px;
+    font-size: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+#header {
+    text-align: center;
+}
